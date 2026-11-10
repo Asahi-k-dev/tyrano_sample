@@ -1,6 +1,6 @@
 *start
 
-[title name="ファミレス値上げやめてほしい"]
+[title name="サイゼロヤ値上げやめてほしい"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
