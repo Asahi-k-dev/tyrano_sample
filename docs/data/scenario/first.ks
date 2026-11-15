@@ -11,9 +11,10 @@
 
 世界に平和が戻り、王様からこう告げられた。[l][r]
 
+[bg storage=ousama.png time=500][l][cm]
+
 「勇者の契約は、本日をもって終了です」[l][cm]
 
-[bg storage=ousama.png time=500][l][cm]
 
 そして今日。[l][r]
 
@@ -21,7 +22,35 @@
 
 装備は伝説の鎧。持ち物は履歴書と聖剣。早速面接会場へ緊張した面持ちで入場した。[l][cm]
 
-[bg storage=mennnsetu.png time=500][l][cm]
+[bg storage=mennsetu.png time=500][l][cm]
+
+面接官「まず、剣は傘立てにお願いします」[l][r]
+
+伝説の聖剣が傘の隣に収まった。[l][cm]
+
+面接官「では、あなたの特技を教えてください」[r][r]
+
+[link target=*sword] →剣術です[endlink][r]
+[link target=*talk] →交渉です[endlink][r]
+[link target=*pot] →ツボを割ることです[endlink][r]
+[s]
+
+*sword
+
+[cm]
+
+[bg storage=kennjutu.png time=500]
+
+勇者「剣術です。巨大なドラゴンも一撃で倒せます」[l][r]
+面接官「なるほど。当社では主に家具の配送をしています」[l][r]
+勇者「巨大なタンスも一撃です」[l][r]
+面接官「倒さずに届けてください」[l][cm]
+
+面接官「次の質問です。重い荷物を運ぶとき、どうしますか？」[r][r]
+
+[link target=*hired] →仲間と協力して安全に運びます[endlink][r]
+[link target=*hero] →壁を壊して最短距離で運びます[endlink][r]
+[s]
 
 [link target=*tag_sleep] →値上げを受け入れる [endlink][r]
 [link target=*tag_run] →値上げを受け入れず自害する [endlink][r]
